@@ -1,0 +1,22 @@
+.author-name {
+  color: blueviolet;
+}
+.blog {
+  background-color: cadetblue;
+  border: 50px solid yellow;
+  border-radius: 15px;
+  margin: 50px auto;
+  padding: 50px 30px 0px 50px;
+  height: 300px;
+  width: 50%;
+}
+.blog p {
+  text-align: justify;
+  color: burlywood;
+}
+.blog-title {
+  text-align: center;
+  font-size: 2em;
+  font-weight: 700;
+  /* font-family: 'Courier New', Courier, monospace; */
+}
